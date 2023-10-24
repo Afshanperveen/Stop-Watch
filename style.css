@@ -1,0 +1,10 @@
+.bg{
+    background-color: greenyellow;
+    text-align: center;
+    
+}
+h1{
+    display: inline-block;
+    width: 150px;
+    background-color: white;
+}
